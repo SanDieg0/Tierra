@@ -299,9 +299,10 @@ body{
     border-top-right-radius: 0;
 }
 
-.star1{
-    top: var(--y);
-    left: var(--x);
+.estrellitas_container{
+    /* width: 100vw;
+    height: 100vh; */
+    position: relative;
 }
 
 
